@@ -28,7 +28,6 @@ songItems.forEach((element , i) => {
     element.getElementsByClassName("songName")[0].innerText= songs[i].songName;
 });
 
-console.log("basti")
 // audioElement.play(); 
  
 //Handle play/pause click
